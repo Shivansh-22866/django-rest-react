@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@apply base;
+@apply components;
+@apply utilities;
+
